@@ -1,0 +1,19 @@
+#ifndef ALIENOBJECT_H
+#define ALIENOBJECT_H
+#include <iostream>
+#include <cmath>
+#include <vector>
+#include <string>
+#include <fstream>
+#include <ctime>
+#include <cmath>
+#include <cstdlib>
+#include <sstream>
+
+#include "Includes.h"
+#include "Constants.h"
+#include "compgeom.h"
+#include "Surface.h"
+#include "Event.h"
+#include "Explosion.h"
+//-g -fsanitize=address
